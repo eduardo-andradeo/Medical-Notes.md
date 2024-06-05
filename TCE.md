@@ -13,7 +13,7 @@ Dados dos EUA:
 
 No TCE, em geral, duas forças podem atuar na lesão, seja ela inercial ou de impacto.
 
-Mecanismos do TCE![Mecanismos do TCE](TCE-1.png)
+Mecanismos do TCE![Mecanismos do TCE](https://github.com/eduardo-andradeo/Medical-Notes.md/blob/main/pictures/TCE.png)
 
 Nesse sentido as lesões podem ser por impacto direto, levando a fraturas e lesões de rompimento vascular, como Hematoma Epidural. Além disso, lesões decorrentes da ação inercial ocorrem devido aos diferentes momentos lineares do encéfalo, o qual gera componentes de desacelarção diferentes entre o corpo celular e o axônio. Com isso, forma-se a lesão axonal difusa (LAD). Dica! ---> O diagnóstico de LAD é clínico + TC. Na TC, você pode observar lesões de Vasa Nervorum, que são microhemorragias nos pequenos vasos que seguem o trajeto dos neurônios.
 
