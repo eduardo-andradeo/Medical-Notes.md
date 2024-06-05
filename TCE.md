@@ -19,7 +19,7 @@ Nesse sentido as lesões podem ser por impacto direto, levando a fraturas e les�
 
 Outro fator importante, diz respeito a Pressão Intracraniana (PIC). No século XIX, dois cientistas escoceses, Alexander Monro e Georgie Kellie, elaboraram uma hipótese sobre o crânio ser um compartimento imcompressível de volume fixo, composto por sangue, parênquima e LCR. Ou seja, qualquer alteração de volume desses componentes deve ser compensada pelos outros. Contudo, chega num ponto em que não há mais compensação para o aumento de PIC e ocorre hernição, principal complicação desses pacientes.
 
-Fisiopatologia do TCE ![Fisiopatologia do TCE](pictures/TCE fisiopato-1.jpg)
+Fisiopatologia do TCE ![Fisiopatologia do TCE](https://github.com/eduardo-andradeo/Medical-Notes.md/tree/main/pictures)
 
 
 ### Clínica
