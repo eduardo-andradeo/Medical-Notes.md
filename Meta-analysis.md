@@ -112,6 +112,7 @@ Depois de remover as duplicações, é iniciada a triagem propriamente dita, com
 
 Importante documentar o porquê da exclusão do artigo (na etapa de leitura na íntegra) --> Organizá-los numa planilha de excel.
 
+Após a finalização da seleção de artigos, fazer a figura-1 com o diagrama de acordo com o PRISMA, mostrando o passo a passo da seleção/exclusão dos estudos. 
 
 
 
