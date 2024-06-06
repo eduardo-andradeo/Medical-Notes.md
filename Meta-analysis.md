@@ -48,9 +48,8 @@ Já o segundo aspecto, trata-se de ser um **estudo inédito**, uma pesquisa aind
 
 **Exercício-1**:
 
-![alt text](lancet_2021.png)
-[BAUER, A. et al. (2021)](https://pubmed.ncbi.nlm.nih.gov/34126053/
-)
+![alt text](https://github.com/eduardo-andradeo/Medical-Notes.md/blob/main/pictures/lancet_2021.png)
+[BAUER, A. et al. (2021)](https://pubmed.ncbi.nlm.nih.gov/34126053/)
 
 * P - Pacientes, > 18 anos, que tiveram COVID-19 recente e sintomática que fazem uso crônico de IECA ou BRA.
 * I - Descontinuação do IECA ou BRA
