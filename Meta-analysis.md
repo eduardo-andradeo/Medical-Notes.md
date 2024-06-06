@@ -105,6 +105,13 @@ Plataformas para genrenciar referências:
 * Mendeley
 * EndNote
 
+Critérios de inclusão e exclusão
 ![Critérios de inclusão e exclusão](https://github.com/eduardo-andradeo/Medical-Notes.md/blob/main/pictures/criterios.png)
+
+Depois de remover as duplicações, é iniciada a triagem propriamente dita, com a exclusão de artigos a partir do título e abstract, e posterior seleção dos que serão lidos na íntegra. Ao ler os artigos sempre devemos prezar pelo cuidado com os resultados, pois não podemos deixar passar os desfechos de interesse, visto que eles podem estar dispersos no texto e até no apêndice.
+
+Importante documentar o porquê da exclusão do artigo (na etapa de leitura na íntegra) --> Organizá-los numa planilha de excel.
+
+
 
 
