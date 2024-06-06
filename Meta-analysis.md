@@ -24,7 +24,7 @@ Lembrar: `Olhar diretrizes da SBC para o congresso de cardiologia`
 
 **Exemplo-1:**
 
-![PICOTT](PICOTT_1.png)
+![PICOTT](https://github.com/eduardo-andradeo/Medical-Notes.md/blob/main/pictures/PICOTT_1.png)
 [JOHANSSEN, F. _et al_. (2022)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2794124)
 * P - Pacientes, de 18-65 anos, com tendinopatia do aquileu.
 * I - Injeção de corticoide (metilpredinisolona) guiado por USG + Exercício
