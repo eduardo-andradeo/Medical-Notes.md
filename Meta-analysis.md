@@ -71,6 +71,5 @@ Esse momento é muito importante, pois irá definir o principal substrato para a
 
 Comece pelas palavras-chave de **população, intervenção e controle**. Além disso, use operadores booleanos e evite field tags ou filtros. Sempre utilizar o vocabulário controlado MeSH, no caso do PubMed, e utilizar aspas nas palavras compostas.
 
-kkkkkkkkkkkkkkkkkkkkk
 
 
