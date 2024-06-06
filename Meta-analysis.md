@@ -71,5 +71,15 @@ Esse momento é muito importante, pois irá definir o principal substrato para a
 
 Comece pelas palavras-chave de **população, intervenção e controle**. Além disso, use operadores booleanos e evite field tags ou filtros. Sempre utilizar o vocabulário controlado MeSH, no caso do PubMed, e utilizar aspas nas palavras compostas.
 
+Montando a estratégia para a seguinte pergunta PICOTT :
 
+* P - Pacientes em uso de clopidogrel
+* I - clopidogrel + inibidor de bomba de prótons
+* C - clopidogrel sem inibidor de bomba de prótons
+* O - sangramento gastrointestinal, infarto; morte cardiovascular, mortalidade total; revascularização.
+* T - Terapêutico, RCT
+* T - Sem restrições
 
+Estratégia de busca:
+
+`(clopidogrel OR plavix) AND ("proton pump inhibitor" OR "proton pump inhibitors" OR "PPI" OR "proton-pump inhibitor" OR "proton-pump inhibitors" OR omeprazole OR pantoprazole OR lansoprazole OR esomeprazole OR rabeprazole)`
