@@ -45,7 +45,7 @@ Já o segundo aspecto, trata-se de ser um **estudo inédito**, uma pesquisa aind
 * Novas tecnologias
 * Subgrupos
 
-**Importante**: Sempre que houver uma meta-análise prévia com a mesma ideia a qual o autor tinha pensado, ele então deve relatar o porquê de está realizando um novo estudo estudo na mesma temática e quais a diferenças em relação aos que já foram publicados anteriormente.
+**Importante**: Sempre que houver uma meta-análise prévia com a mesma ideia a qual o autor tinha pensado, ele então deve relatar o porquê de está realizando um novo estudo na mesma temática e quais a diferenças em relação aos que já foram publicados anteriormente.
 
 **Exercício-1**:
 
@@ -91,3 +91,20 @@ Estratégia de busca:
 Buscar em três bases de dados é suficiente, sendo elas: **PubMed, Embase e Cochrane**. Pode utilizar a LILACS, caso o estudo esteja voltado para população latino-americana.
 
 Uma vez definida a estratégia de busca, registre a meta-análise na plataforma **PROSPERO**.
+
+## Triagem dos estudos
+
+Antes de iniciar a triagem é importante delinear bem os **critérios de inclusão e exclusão** (recomendo a leitura do Delineando a pesquisa clínica), além de definir quem ficará responsável pelo processo de triagem (autor e coautor geralmente devem fazer). 
+
+Ao buscar os estudos nas bases de dados, faz-se necessário para uma melhor organização, exportá-los para o gerenciador de referências. Assim, o autor consegue contabilizar o núemro de estudos e corrigir duplicações.
+
+**OBS: Embase só exporta 500 estudos por vez.**
+
+Plataformas para genrenciar referências:
+* Zotero
+* Mendeley
+* EndNote
+
+![Critérios de inclusão e exclusão](https://github.com/eduardo-andradeo/Medical-Notes.md/blob/main/pictures/criterios.png)
+
+
