@@ -114,5 +114,7 @@ Importante documentar o porquê da exclusão do artigo (na etapa de leitura na �
 
 Após a finalização da seleção de artigos, fazer a figura-1 com o diagrama de acordo com o PRISMA, mostrando o passo a passo da seleção/exclusão dos estudos. 
 
+## Coleta de dados
+
 
 
