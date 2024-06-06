@@ -83,3 +83,9 @@ Montando a estratégia para a seguinte pergunta PICOTT :
 Estratégia de busca:
 
 `(clopidogrel OR plavix) AND ("proton pump inhibitor" OR "proton pump inhibitors" OR "PPI" OR "proton-pump inhibitor" OR "proton-pump inhibitors" OR omeprazole OR pantoprazole OR lansoprazole OR esomeprazole OR rabeprazole)`
+
+## Plataformas de busca e Registro Prospectivo
+
+Buscar em três bases de dados é suficiente, sendo elas: PubMed, Embase e Cochrane. Pode utilizar a LILACS, caso o estudo esteja voltado para população latino-americana.
+
+Uma vez definida a estratégia de busca, registre a meta-análise na plataforma PROSPERO.
