@@ -88,6 +88,6 @@ Estratégia de busca:
 
 ## Plataformas de busca e Registro Prospectivo
 
-Buscar em três bases de dados é suficiente, sendo elas: PubMed, Embase e Cochrane. Pode utilizar a LILACS, caso o estudo esteja voltado para população latino-americana.
+Buscar em três bases de dados é suficiente, sendo elas: **PubMed, Embase e Cochrane**. Pode utilizar a LILACS, caso o estudo esteja voltado para população latino-americana.
 
-Uma vez definida a estratégia de busca, registre a meta-análise na plataforma PROSPERO.
+Uma vez definida a estratégia de busca, registre a meta-análise na plataforma **PROSPERO**.
