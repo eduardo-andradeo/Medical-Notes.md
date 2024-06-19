@@ -106,6 +106,7 @@ Plataformas para genrenciar referências:
 * EndNote
 
 Critérios de inclusão e exclusão
+
 ![Critérios de inclusão e exclusão](https://github.com/eduardo-andradeo/Medical-Notes.md/blob/main/pictures/criterios.png)
 
 Depois de remover as duplicações, é iniciada a triagem propriamente dita, com a exclusão de artigos a partir do título e abstract, e posterior seleção dos que serão lidos na íntegra. Ao ler os artigos sempre devemos prezar pelo cuidado com os resultados, pois não podemos deixar passar os desfechos de interesse, visto que eles podem estar dispersos no texto e até no apêndice.
@@ -115,6 +116,7 @@ Importante documentar o porquê da exclusão do artigo (na etapa de leitura na �
 Após a finalização da seleção de artigos, fazer a figura-1 com o diagrama de acordo com o PRISMA, mostrando o passo a passo da seleção/exclusão dos estudos. 
 
 ## Coleta de dados
+
 
 
 
